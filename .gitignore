@@ -1,0 +1,44 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Streamlit-related
+.streamlit/secrets.toml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Virtual environment
+.vscode/
+.idea/
+*.iml
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
