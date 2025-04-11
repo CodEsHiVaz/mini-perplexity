@@ -1,6 +1,4 @@
----
 
-```markdown
 #  Web-powered AI Answer Assistant
 
 This Streamlit app uses **SERP API**, **OpenAI**, **BeautifulSoup**, **FAISS**, and **newspaper3k** to fetch and process content from top Google search results, then answers your question using GPT-4 based on that data.
