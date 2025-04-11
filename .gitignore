@@ -12,8 +12,6 @@ env/
 dist/
 build/
 
-# Streamlit-related
-.streamlit/secrets.toml
 
 # Logs and temporary files
 *.log
